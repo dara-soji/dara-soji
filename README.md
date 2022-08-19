@@ -6,8 +6,8 @@ I'm a Software Engineer, and Kids Educator who currently works as a part-time Fr
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-<!--- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->- 🌱 I’m currently learning JavaScript, Nodejs, Vuejs and Nextjs.
+- 😊 Pronouns: He/him <!--- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
+- 🌱 I’m currently learning JavaScript, Nodejs, Vuejs and Nextjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1hqcn8Fs7FQOQ1yL-pgLwLSLdhOanLFcv/view?usp=sharing) and contact me by emailing adesojidara79@gmail.com.
