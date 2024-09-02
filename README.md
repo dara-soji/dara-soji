@@ -11,8 +11,8 @@ I'm a Software Engineer, I'm proficient in both Frontend & Backend Development. 
 - 😊 I’m looking at improving my skills with continuous learning in Artificial Intelligence/ Machine learning (AI/ML).
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Mid/Senior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1hqcn8Fs7FQOQ1yL-pgLwLSLdhOanLFcv/view?usp=sharing) and contact me by emailing adesojidara79@gmail.com.
-
+<!--
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dara-soji&show_icons=true&include_all_commits=true&hide_border=true" alt="Dara's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dara-soji&langs_count=8&layout=compact&hide_border=true" alt="Dara's GitHub stats" /> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
